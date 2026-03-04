@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+
+legend {
+  margin: 5px 0 2px 0;
+}
+
+.input {
+  width: 300px;
+  height: 25px;
+  border: 2px solid #888;
+  border-radius: 7px;
+}
+
+.form {
+  border: 1px solid #000;
+  height: 550px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.bord {
+  border: none;
+}
+
+textarea {
+  resize: vertical;
+  max-height: 100px;
+  min-height: 25px;
+  border: 2px solid #888;
+  border-radius: 7px;
+  width: 300px;
+}
+div {
+  margin: 10px 0;
+}
+
+.checkbox {
+  cursor: pointer;
+}
+button {
+  cursor: pointer;
+  margin-left: 15px;
+}
